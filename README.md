@@ -1,4 +1,4 @@
-##🚀 About Me
+##_🚀 About Me_
 
 I’m a Data Analyst with a background in Economics and an MBA in Project Management, passionate about transforming raw data into actionable insights that drive smarter business decisions.
 
