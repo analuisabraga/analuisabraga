@@ -1,4 +1,4 @@
-## **🚀 About Me**
+### **🚀 About Me**
 
 I’m Ana and I'm a Data Analyst with a background in Economics and an MBA in Project Management, passionate about transforming raw data into actionable insights that drive smarter business decisions.
 
@@ -6,5 +6,5 @@ With experience in sales, finance, and data analytics, I bring a unique combinat
 
 I hope you enjoy going through my projects!
 
-### *🌐 Connect with Me*
+### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/analuisabraga/)
